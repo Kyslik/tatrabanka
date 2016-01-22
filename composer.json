@@ -1,0 +1,17 @@
+{
+    "name": "sudoagency/tatrabanka",
+    "description": "Laravel package for handling Tatra Banka payments - TatraPay and CardPay.",
+    "license": "MIT",
+    "keywords": ["laravel", "tatra", "banka", "payment", "tatrapay"],
+    "authors": [
+        {
+            "name": "Michal Trnka",
+            "email": "michal@sudo.agency"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.2.*"
+    },
+    "minimum-stability": "dev"
+}
